@@ -43,3 +43,5 @@ This project uses an **Artificial Neural Network (ANN)** to predict **customer c
 7. Made predictions and converted them to binary outputs.  
 8. Evaluated accuracy and plotted loss & accuracy curves.
 
+![alt text](CHURN/1.png)
+![alt text](CHURN/2.png)
